@@ -1,4 +1,4 @@
-FROM n8nio/n8n:2.37.7
+FROM n8nio/n8n:2.39.8
 
 # Railway volumes mount as root — run as root to avoid permission issues
 USER root
